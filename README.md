@@ -22,11 +22,27 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **dilongimabior@gmail.com**
 
+<h1 align="center">Hi 👋, I'm Nhial Mabior</h1>
+<h3 align="center">A passionate frontend developer from Kenya</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhialmabior&label=Profile%20views&color=0e75b6&style=flat" alt="nhialmabior" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhialmabior" alt="nhialmabior" /></a> </p>
+
+- 🌱 I’m currently learning **Frontend Developer Program**
+
+- 💬 Ask me about **HTML, CSS, Javascript and React**
+
+- 📫 How to reach me **dilongimabior@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dilongi90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilongi90" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nhialmabior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhialmabior" height="30" width="40" /></a>
+<a href="https://dev.to/@nhial_mabior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@nhial_mabior" height="30" width="40" /></a>
+<a href="https://twitter.com/@dilongim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dilongim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nhial mabior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhial mabior" height="30" width="40" /></a>
 <a href="https://instagram.com/dilongi_mabior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilongi_mabior" height="30" width="40" /></a>
+<a href="https://hashnode.com/@dilongi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@dilongi" height="30" width="40" /></a>
+<a href="https://medium.com/@nhialmabiorgarang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nhialmabiorgarang" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
