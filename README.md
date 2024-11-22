@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nhialmabior
 - 👀 I’m interested in building interactive and dynamic user interfaces using JavaScript, HTML, CSS, and React.
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on HTML
+- 🌱 I’m currently working on building a Reactjs Todo_list app 
+- 💞️ I’m looking to collaborate on this project.
 - 📫 How to reach me dilongimabior@gmail.com
 - 😄 Pronouns: Mr
 
